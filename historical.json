@@ -1,0 +1,37 @@
+[
+ {
+  "year": 2000,
+  "type": "parlamentarni (Srbija, 23.12.2000)",
+  "pct": 57.62,
+  "url": "https://en.wikipedia.org/wiki/2000_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2020,
+  "type": "parlamentarni",
+  "pct": 48.88,
+  "url": "https://en.wikipedia.org/wiki/2020_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2022,
+  "type": "parlamentarni",
+  "pct": 58.53,
+  "url": "https://en.wikipedia.org/wiki/2022_Serbian_general_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2022,
+  "type": "predsednički",
+  "pct": 58.63,
+  "url": "https://en.wikipedia.org/wiki/2022_Serbian_general_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2023,
+  "type": "parlamentarni (vanredni)",
+  "pct": 58.77,
+  "url": "https://en.wikipedia.org/wiki/2023_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ }
+]

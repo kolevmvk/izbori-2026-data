@@ -1,0 +1,75 @@
+{
+ "generated_at": "2026-10-25T11:51:14+00:00",
+ "election": {
+  "name": "Izbori za narodne poslanike 2026",
+  "date": "2026-10-25",
+  "polls_close": "20:00"
+ },
+ "sources": {
+  "rik": {
+   "status": "not_published",
+   "last_ok_at": null,
+   "last_attempt_at": "2026-10-25T11:51:13+00:00",
+   "message": "RIK results page reachable; no machine-readable 2026 results table published yet",
+   "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
+   "party_source": false
+  },
+  "cesid_ipsos": {
+   "status": "ok",
+   "last_ok_at": "2026-10-25T11:51:14+00:00",
+   "last_attempt_at": "2026-10-25T11:51:14+00:00",
+   "message": "feed ok; turnout infographics need manual confirmation (OCR candidates are not shown as results)",
+   "url": "https://www.cesid.rs/feed/",
+   "party_source": false
+  },
+  "crta": {
+   "status": "not_published",
+   "last_ok_at": null,
+   "last_attempt_at": "2026-10-25T11:51:14+00:00",
+   "message": "reachable, but no stable machine-readable results endpoint is known",
+   "url": "https://crta.rs/",
+   "party_source": false
+  },
+  "sns": {
+   "status": "not_published",
+   "last_ok_at": null,
+   "last_attempt_at": "2026-10-25T11:51:14+00:00",
+   "message": "no verified public machine-readable party estimate endpoint; entries only via manual file",
+   "url": "https://www.sns.org.rs/",
+   "party_source": true
+  }
+ },
+ "turnout": [
+  {
+   "time_label": "9h",
+   "pct": 12.0,
+   "abs": null,
+   "source": "cesid_ipsos",
+   "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
+   "published_at": "2026-10-25T09:15:52+00:00",
+   "fetched_at": "2026-10-25T11:51:13+00:00",
+   "validation": "valid-manual",
+   "processed_pct": null
+  },
+  {
+   "time_label": "11h",
+   "pct": 27.3,
+   "abs": null,
+   "source": "cesid_ipsos",
+   "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
+   "published_at": "2026-10-25T09:15:52+00:00",
+   "fetched_at": "2026-10-25T11:51:13+00:00",
+   "validation": "valid-manual",
+   "processed_pct": null
+  }
+ ],
+ "results": {},
+ "irregularities": [
+  {
+   "source": "cesid_ipsos",
+   "text": "Više od 120 prijava nepravilnosti do 11 časova: problemi u sprovođenju glasanja i otežan pristup posmatrača Pregled više od 120 prijava koje su CeSID-u dostavili posmatrači do 11 časova ukazuje na probleme u organizaciji i sprovođenju glasanja, povrede tajnosti glasanja, nepravilnosti u radu biračkih odbora i pitanja u vezi sa biračkim spiskom. Posebno zabrinjavaju prijave o otežanom ili onemogućenom pristupu posmatrača biračkim mestima. Prijavljeni događaji zabeleženi su u različitim delovima Srbije i odnose se na više faza izbornog procesa – od pripreme biračkih mesta i početka glasanja do p",
+   "url": "https://www.cesid.rs/izbori2023/parlamentarni-izbori-2026-nepravilnosti-uocene-na-birackim-mestima/",
+   "published_at": "2026-10-25T08:26:07+00:00"
+  }
+ ]
+}
