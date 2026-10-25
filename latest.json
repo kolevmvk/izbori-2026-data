@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T21:15:27+00:00",
+ "generated_at": "2026-10-25T21:16:48+00:00",
  "election": {
   "name": "Izbori za narodne poslanike 2026",
   "date": "2026-10-25",
@@ -8,16 +8,16 @@
  "sources": {
   "rik": {
    "status": "ok",
-   "last_ok_at": "2026-10-25T21:15:26+00:00",
-   "last_attempt_at": "2026-10-25T21:15:26+00:00",
-   "message": "RIK: obrađeno 970 od 8392 biračkih mesta (25.10.2026 22:10:00)",
+   "last_ok_at": "2026-10-25T21:16:47+00:00",
+   "last_attempt_at": "2026-10-25T21:16:47+00:00",
+   "message": "RIK: obrađeno 1050 od 8392 biračkih mesta (25.10.2026 22:15:00)",
    "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
    "party_source": false
   },
   "cesid_ipsos": {
    "status": "ok",
-   "last_ok_at": "2026-10-25T21:15:27+00:00",
-   "last_attempt_at": "2026-10-25T21:15:27+00:00",
+   "last_ok_at": "2026-10-25T21:16:48+00:00",
+   "last_attempt_at": "2026-10-25T21:16:48+00:00",
    "message": "feed ok; turnout infographics need manual confirmation (OCR candidates are not shown as results)",
    "url": "https://www.cesid.rs/feed/",
    "party_source": false
@@ -25,7 +25,7 @@
   "crta": {
    "status": "not_published",
    "last_ok_at": null,
-   "last_attempt_at": "2026-10-25T21:15:27+00:00",
+   "last_attempt_at": "2026-10-25T21:16:48+00:00",
    "message": "reachable, but no stable machine-readable results endpoint is known",
    "url": "https://crta.rs/",
    "party_source": false
@@ -33,7 +33,7 @@
   "sns": {
    "status": "not_published",
    "last_ok_at": null,
-   "last_attempt_at": "2026-10-25T21:15:27+00:00",
+   "last_attempt_at": "2026-10-25T21:16:48+00:00",
    "message": "no verified public machine-readable party estimate endpoint; entries only via manual file",
    "url": "https://www.sns.org.rs/",
    "party_source": true
@@ -47,7 +47,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:15:26+00:00",
+   "fetched_at": "2026-10-25T21:16:47+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -58,7 +58,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:15:26+00:00",
+   "fetched_at": "2026-10-25T21:16:47+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -69,7 +69,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:15:26+00:00",
+   "fetched_at": "2026-10-25T21:16:47+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -80,7 +80,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:15:26+00:00",
+   "fetched_at": "2026-10-25T21:16:47+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -91,7 +91,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:15:26+00:00",
+   "fetched_at": "2026-10-25T21:16:47+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   }
@@ -102,64 +102,64 @@
     "source": "rik",
     "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
     "published_at": null,
-    "fetched_at": "2026-10-25T21:15:26+00:00",
+    "fetched_at": "2026-10-25T21:16:47+00:00",
     "validation": "valid",
-    "processed_pct": 11.56
+    "processed_pct": 12.51
    },
-   "processed_pct": 11.56,
+   "processed_pct": 12.51,
    "lists": [
     {
      "id": "l1",
      "name": "ALEKSANDAR VUČIĆ – UJEDINJENA SRBIJA",
-     "votes": 110545,
-     "pct": 47.22,
+     "votes": 120969,
+     "pct": 47.07,
      "seats": null,
      "minority": false
     },
     {
      "id": "l2",
      "name": "IVICA DAČIĆ - FAKTOR STABILNOSTI! (SOCIJALISTIČKA PARTIJA SRBIJE, JEDINSTVENA SRBIJA, SOCIJALDEMOKRATSKA PARTIJA SRBIJE, ZELENI SRBIJE)",
-     "votes": 6653,
-     "pct": 2.84,
+     "votes": 7262,
+     "pct": 2.83,
      "seats": null,
      "minority": false
     },
     {
      "id": "l3",
      "name": "STUDENTSKA LISTA - STUDENTI POBEĐUJU",
-     "votes": 98771,
-     "pct": 42.19,
+     "votes": 109243,
+     "pct": 42.5,
      "seats": null,
      "minority": false
     },
     {
      "id": "l4",
      "name": "RASIM LJAJIĆ – LJUDSKI (SDP – CDP)",
-     "votes": 1618,
-     "pct": 0.69,
+     "votes": 1694,
+     "pct": 0.66,
      "seats": null,
      "minority": false
     },
     {
      "id": "l5",
      "name": "VAJDASÁGI MAGYAR SZÖVETSÉG – DR. PÁSZTOR BÁLINT – SAVEZ VOJVOĐANSKIH MAĐARA – DR BALINT PASTOR",
-     "votes": 4586,
-     "pct": 1.96,
+     "votes": 5087,
+     "pct": 1.98,
      "seats": null,
      "minority": true
     },
     {
      "id": "l6",
      "name": "USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE / USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE",
-     "votes": 1009,
-     "pct": 0.43,
+     "votes": 1037,
+     "pct": 0.4,
      "seats": null,
      "minority": true
     },
     {
      "id": "l7",
      "name": "RUSKA STRANKA – SRBIJA U BRIKSU – SLOBODAN NIKOLIĆ",
-     "votes": 367,
+     "votes": 403,
      "pct": 0.16,
      "seats": null,
      "minority": false
@@ -167,15 +167,15 @@
     {
      "id": "l8",
      "name": "AUTENTIČNA DESNICA – DR MILOŠ JOVANOVIĆ (NOVI DSS – MONARHISTI – SRPSKA KOALICIJA NADA – NACIONALNO DEMOKRATSKA ALTERNATIVA – NOVA DEMOKRATSKA STRANKA",
-     "votes": 1721,
-     "pct": 0.74,
+     "votes": 1881,
+     "pct": 0.73,
      "seats": null,
      "minority": false
     },
     {
      "id": "l9",
      "name": "EVROPSKA SRBIJA – MARINIKA TEPIĆ – ZDRAVKO PONOŠ (STRANKA SLOBODE I PRAVDE, SRBIJA CENTAR – SRCE, SOLIDARNOST – SAMOODBRANA – OSLOBOĐENJE)",
-     "votes": 513,
+     "votes": 562,
      "pct": 0.22,
      "seats": null,
      "minority": false
@@ -183,15 +183,15 @@
     {
      "id": "l10",
      "name": "SDA SANDŽAKA – ČUVARI SANDŽAKA SDA SANDŽAKA – ČUVARI SANDŽAKA",
-     "votes": 817,
-     "pct": 0.35,
+     "votes": 854,
+     "pct": 0.33,
      "seats": null,
      "minority": true
     },
     {
      "id": "l11",
      "name": "BOGOLJUB KARIĆ – POKRET SNAGA SRBIJE - BK",
-     "votes": 1057,
+     "votes": 1168,
      "pct": 0.45,
      "seats": null,
      "minority": false
@@ -199,7 +199,7 @@
     {
      "id": "l12",
      "name": "LIBERALNO ZELENA STRANKA-ZA SLOBODNU I ČISTIJU SRBIJU",
-     "votes": 109,
+     "votes": 125,
      "pct": 0.05,
      "seats": null,
      "minority": false
@@ -207,7 +207,7 @@
     {
      "id": "l13",
      "name": "BIRAM PRAVDU - BIRAM BUDUĆNOST - KOALICIJA SNAGA - PROF. DR FERID BULIĆ - VASILIOS PROVELEGGIOS – STRANKA BUDUĆNOSTI I RAZVOJA/STRANKA BUDUĆNOSTI I RA",
-     "votes": 73,
+     "votes": 74,
      "pct": 0.03,
      "seats": null,
      "minority": false
@@ -215,7 +215,7 @@
     {
      "id": "l14",
      "name": "STRANKA RUSKO-SRPSKOG JEDINSTVA- RUSI I SRBI BRAĆA ZAUVEK",
-     "votes": 225,
+     "votes": 250,
      "pct": 0.1,
      "seats": null,
      "minority": false
@@ -223,7 +223,7 @@
     {
      "id": "l15",
      "name": "ĆALE OVO JE ZA TEBE–PETAR ĐURIĆ-PREMIJER SRBIJE",
-     "votes": 97,
+     "votes": 113,
      "pct": 0.04,
      "seats": null,
      "minority": false
@@ -231,24 +231,24 @@
     {
      "id": "l16",
      "name": "VLADIMIR GAJIĆ – ALTERNATIVA ZA SRBIJU - NARODNA STRANKA, BUNT-PRAVA SRBIJA - BUNT-NASTOЯЩAЯ SERBIЯ",
-     "votes": 125,
-     "pct": 0.05,
+     "votes": 148,
+     "pct": 0.06,
      "seats": null,
      "minority": false
     },
     {
      "id": "l17",
      "name": "ALBANSKA KOALICIJA - KOALICIONI SHQIPTAR",
-     "votes": 2221,
-     "pct": 0.95,
+     "votes": 2222,
+     "pct": 0.86,
      "seats": null,
      "minority": true
     },
     {
      "id": "l18",
      "name": "MAJKA SRBIJA – GRUDA",
-     "votes": 178,
-     "pct": 0.08,
+     "votes": 192,
+     "pct": 0.07,
      "seats": null,
      "minority": false
     }
@@ -259,7 +259,7 @@
     "source": "cesid_ipsos",
     "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-rezultata-na-osnovu-56-obradenog-uzorka/",
     "published_at": "2026-10-25T20:59:37+00:00",
-    "fetched_at": "2026-10-25T21:15:27+00:00",
+    "fetched_at": "2026-10-25T21:16:48+00:00",
     "validation": "valid-manual",
     "processed_pct": 56.0
    },
