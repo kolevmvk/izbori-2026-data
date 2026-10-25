@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T21:08:40+00:00",
+ "generated_at": "2026-10-25T21:10:02+00:00",
  "election": {
   "name": "Izbori za narodne poslanike 2026",
   "date": "2026-10-25",
@@ -8,16 +8,16 @@
  "sources": {
   "rik": {
    "status": "ok",
-   "last_ok_at": "2026-10-25T21:08:39+00:00",
-   "last_attempt_at": "2026-10-25T21:08:39+00:00",
+   "last_ok_at": "2026-10-25T21:10:01+00:00",
+   "last_attempt_at": "2026-10-25T21:10:01+00:00",
    "message": "RIK: obrađeno 876 od 8392 biračkih mesta (25.10.2026 22:05:00)",
    "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
    "party_source": false
   },
   "cesid_ipsos": {
    "status": "ok",
-   "last_ok_at": "2026-10-25T21:08:40+00:00",
-   "last_attempt_at": "2026-10-25T21:08:40+00:00",
+   "last_ok_at": "2026-10-25T21:10:02+00:00",
+   "last_attempt_at": "2026-10-25T21:10:02+00:00",
    "message": "feed ok; turnout infographics need manual confirmation (OCR candidates are not shown as results)",
    "url": "https://www.cesid.rs/feed/",
    "party_source": false
@@ -25,7 +25,7 @@
   "crta": {
    "status": "not_published",
    "last_ok_at": null,
-   "last_attempt_at": "2026-10-25T21:08:40+00:00",
+   "last_attempt_at": "2026-10-25T21:10:02+00:00",
    "message": "reachable, but no stable machine-readable results endpoint is known",
    "url": "https://crta.rs/",
    "party_source": false
@@ -33,7 +33,7 @@
   "sns": {
    "status": "not_published",
    "last_ok_at": null,
-   "last_attempt_at": "2026-10-25T21:08:40+00:00",
+   "last_attempt_at": "2026-10-25T21:10:02+00:00",
    "message": "no verified public machine-readable party estimate endpoint; entries only via manual file",
    "url": "https://www.sns.org.rs/",
    "party_source": true
@@ -47,7 +47,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:08:39+00:00",
+   "fetched_at": "2026-10-25T21:10:01+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -58,7 +58,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:08:39+00:00",
+   "fetched_at": "2026-10-25T21:10:01+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -69,7 +69,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:08:39+00:00",
+   "fetched_at": "2026-10-25T21:10:01+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -80,7 +80,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:08:39+00:00",
+   "fetched_at": "2026-10-25T21:10:01+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -91,7 +91,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T21:08:39+00:00",
+   "fetched_at": "2026-10-25T21:10:01+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   }
@@ -102,7 +102,7 @@
     "source": "rik",
     "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
     "published_at": null,
-    "fetched_at": "2026-10-25T21:08:39+00:00",
+    "fetched_at": "2026-10-25T21:10:01+00:00",
     "validation": "valid",
     "processed_pct": 10.44
    },
@@ -253,6 +253,164 @@
      "minority": false
     }
    ]
+  },
+  "cesid_ipsos": {
+   "provenance": {
+    "source": "cesid_ipsos",
+    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-rezultata-na-osnovu-56-obradenog-uzorka/",
+    "published_at": "2026-10-25T20:59:37+00:00",
+    "fetched_at": "2026-10-25T21:10:02+00:00",
+    "validation": "valid-manual",
+    "processed_pct": 56.0
+   },
+   "processed_pct": 56.0,
+   "lists": [
+    {
+     "id": "l1",
+     "name": "Aleksandar Vučić – Ujedinjena Srbija",
+     "votes": null,
+     "pct": 39.3,
+     "seats": 104,
+     "minority": false
+    },
+    {
+     "id": "l2",
+     "name": "Ivica Dačić – Faktor stabilnosti",
+     "votes": null,
+     "pct": 2.3,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l3",
+     "name": "Studentska lista – Studenti pobeđuju",
+     "votes": null,
+     "pct": 52.0,
+     "seats": 139,
+     "minority": false
+    },
+    {
+     "id": "l4",
+     "name": "Rasim Ljajić – Ljudski (SDP–CDP)",
+     "votes": null,
+     "pct": 0.5,
+     "seats": 1,
+     "minority": false
+    },
+    {
+     "id": "l5",
+     "name": "Savez vojvođanskih Mađara – dr Balint Pastor",
+     "votes": null,
+     "pct": 0.9,
+     "seats": 3,
+     "minority": true
+    },
+    {
+     "id": "l6",
+     "name": "Usame Zukorlić (SPP) Pokret za ujedinjenje",
+     "votes": null,
+     "pct": 0.3,
+     "seats": 0,
+     "minority": true
+    },
+    {
+     "id": "l7",
+     "name": "Ruska stranka – Srbija u Briksu – Slobodan Nikolić",
+     "votes": null,
+     "pct": 0.2,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l8",
+     "name": "Autentična desnica – Miloš Jovanović",
+     "votes": null,
+     "pct": 0.8,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l9",
+     "name": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+     "votes": null,
+     "pct": 0.3,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l10",
+     "name": "SDA Sandžaka – Čuvari Sandžaka",
+     "votes": null,
+     "pct": 0.4,
+     "seats": 1,
+     "minority": true
+    },
+    {
+     "id": "l11",
+     "name": "Bogoljub Karić – Pokret snaga Srbije – BK",
+     "votes": null,
+     "pct": 0.4,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l12",
+     "name": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+     "votes": null,
+     "pct": 0.1,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l13",
+     "name": "Biram pravdu biram budućnost",
+     "votes": null,
+     "pct": 0.0,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l14",
+     "name": "Stranka ruskog srpskog jedinstva – Rusi i Srbi braća zauvek",
+     "votes": null,
+     "pct": 0.1,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l15",
+     "name": "Grupa građana „Ćale, ovo je za tebe“ – Petar Đurić",
+     "votes": null,
+     "pct": 0.0,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l16",
+     "name": "Vladimir Gajić – Alternativa za Srbiju",
+     "votes": null,
+     "pct": 0.1,
+     "seats": 0,
+     "minority": false
+    },
+    {
+     "id": "l17",
+     "name": "Albanska koalicija – Koalicioni Shqiptar",
+     "votes": null,
+     "pct": 0.8,
+     "seats": 2,
+     "minority": true
+    },
+    {
+     "id": "l18",
+     "name": "Majka Srbija – Gruda",
+     "votes": null,
+     "pct": 0.1,
+     "seats": 0,
+     "minority": false
+    }
+   ],
+   "kind": "sample_projection"
   }
  },
  "irregularities": [
