@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T22:05:52+00:00",
+ "generated_at": "2026-10-25T22:07:15+00:00",
  "method": "dirichlet-mc-v1",
  "method_validated": false,
  "turnout": null,
@@ -7,9 +7,9 @@
   {
    "id": "l1",
    "name": "ALEKSANDAR VUČIĆ – UJEDINJENA SRBIJA",
-   "pct_point": 46.01,
-   "pct_lo": 41.83,
-   "pct_hi": 50.11,
+   "pct_point": 45.76,
+   "pct_lo": 41.64,
+   "pct_hi": 49.81,
    "seats_point": 119,
    "seats_lo": 108,
    "seats_hi": 130,
@@ -18,9 +18,9 @@
   {
    "id": "l2",
    "name": "IVICA DAČIĆ - FAKTOR STABILNOSTI! (SOCIJALISTIČKA PARTIJA SRBIJE, JEDINSTVENA SRBIJA, SOCIJALDEMOKRATSKA PARTIJA SRBIJE, ZELENI SRBIJE)",
-   "pct_point": 2.56,
+   "pct_point": 2.55,
    "pct_lo": 1.49,
-   "pct_hi": 4.05,
+   "pct_hi": 3.97,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 10,
@@ -29,20 +29,20 @@
   {
    "id": "l3",
    "name": "STUDENTSKA LISTA - STUDENTI POBEĐUJU",
-   "pct_point": 45.38,
-   "pct_lo": 41.33,
-   "pct_hi": 49.5,
-   "seats_point": 118,
-   "seats_lo": 107,
-   "seats_hi": 129,
+   "pct_point": 45.72,
+   "pct_lo": 41.7,
+   "pct_hi": 49.78,
+   "seats_point": 119,
+   "seats_lo": 108,
+   "seats_hi": 130,
    "passes_threshold_prob": null
   },
   {
    "id": "l4",
    "name": "RASIM LJAJIĆ – LJUDSKI (SDP – CDP)",
-   "pct_point": 0.51,
+   "pct_point": 0.52,
    "pct_lo": 0.1,
-   "pct_hi": 1.3,
+   "pct_hi": 1.31,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 0,
@@ -51,10 +51,10 @@
   {
    "id": "l5",
    "name": "VAJDASÁGI MAGYAR SZÖVETSÉG – DR. PÁSZTOR BÁLINT – SAVEZ VOJVOĐANSKIH MAĐARA – DR BALINT PASTOR",
-   "pct_point": 1.73,
-   "pct_lo": 0.8,
-   "pct_hi": 3.02,
-   "seats_point": 6,
+   "pct_point": 1.7,
+   "pct_lo": 0.79,
+   "pct_hi": 2.94,
+   "seats_point": 5,
    "seats_lo": 2,
    "seats_hi": 10,
    "passes_threshold_prob": null
@@ -62,9 +62,9 @@
   {
    "id": "l6",
    "name": "USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE / USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE",
-   "pct_point": 0.29,
+   "pct_point": 0.3,
    "pct_lo": 0.02,
-   "pct_hi": 0.95,
+   "pct_hi": 0.97,
    "seats_point": 1,
    "seats_lo": 0,
    "seats_hi": 3,
@@ -75,7 +75,7 @@
    "name": "RUSKA STRANKA – SRBIJA U BRIKSU – SLOBODAN NIKOLIĆ",
    "pct_point": 0.1,
    "pct_lo": 0.0,
-   "pct_hi": 0.58,
+   "pct_hi": 0.56,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 0,
@@ -84,9 +84,9 @@
   {
    "id": "l8",
    "name": "AUTENTIČNA DESNICA – DR MILOŠ JOVANOVIĆ (NOVI DSS – MONARHISTI – SRPSKA KOALICIJA NADA – NACIONALNO DEMOKRATSKA ALTERNATIVA – NOVA DEMOKRATSKA STRANKA",
-   "pct_point": 0.69,
-   "pct_lo": 0.18,
-   "pct_hi": 1.63,
+   "pct_point": 0.7,
+   "pct_lo": 0.19,
+   "pct_hi": 1.58,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 0,
@@ -95,9 +95,9 @@
   {
    "id": "l9",
    "name": "EVROPSKA SRBIJA – MARINIKA TEPIĆ – ZDRAVKO PONOŠ (STRANKA SLOBODE I PRAVDE, SRBIJA CENTAR – SRCE, SOLIDARNOST – SAMOODBRANA – OSLOBOĐENJE)",
-   "pct_point": 0.17,
+   "pct_point": 0.18,
    "pct_lo": 0.0,
-   "pct_hi": 0.72,
+   "pct_hi": 0.73,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 0,
@@ -108,7 +108,7 @@
    "name": "SDA SANDŽAKA – ČUVARI SANDŽAKA SDA SANDŽAKA – ČUVARI SANDŽAKA",
    "pct_point": 0.3,
    "pct_lo": 0.02,
-   "pct_hi": 0.98,
+   "pct_hi": 0.95,
    "seats_point": 1,
    "seats_lo": 0,
    "seats_hi": 3,
@@ -117,9 +117,9 @@
   {
    "id": "l11",
    "name": "BOGOLJUB KARIĆ – POKRET SNAGA SRBIJE - BK",
-   "pct_point": 0.38,
-   "pct_lo": 0.05,
-   "pct_hi": 1.09,
+   "pct_point": 0.37,
+   "pct_lo": 0.04,
+   "pct_hi": 1.05,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 0,
@@ -130,7 +130,7 @@
    "name": "LIBERALNO ZELENA STRANKA-ZA SLOBODNU I ČISTIJU SRBIJU",
    "pct_point": 0.01,
    "pct_lo": 0.0,
-   "pct_hi": 0.26,
+   "pct_hi": 0.25,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 0,
@@ -174,7 +174,7 @@
    "name": "VLADIMIR GAJIĆ – ALTERNATIVA ZA SRBIJU - NARODNA STRANKA, BUNT-PRAVA SRBIJA - BUNT-NASTOЯЩAЯ SERBIЯ",
    "pct_point": 0.02,
    "pct_lo": 0.0,
-   "pct_hi": 0.33,
+   "pct_hi": 0.35,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 0,
@@ -183,9 +183,9 @@
   {
    "id": "l17",
    "name": "ALBANSKA KOALICIJA - KOALICIONI SHQIPTAR",
-   "pct_point": 0.76,
-   "pct_lo": 0.21,
-   "pct_hi": 1.71,
+   "pct_point": 0.73,
+   "pct_lo": 0.22,
+   "pct_hi": 1.65,
    "seats_point": 2,
    "seats_lo": 0,
    "seats_hi": 5,
@@ -196,7 +196,7 @@
    "name": "MAJKA SRBIJA – GRUDA",
    "pct_point": 0.02,
    "pct_lo": 0.0,
-   "pct_hi": 0.38,
+   "pct_hi": 0.35,
    "seats_point": 0,
    "seats_lo": 0,
    "seats_hi": 0,
@@ -212,31 +212,13 @@
      "l3"
     ],
     "prob": null,
-    "seats_median": 237
+    "seats_median": 238
    },
    {
     "members": [
      "l1",
      "l5",
      "l17"
-    ],
-    "prob": null,
-    "seats_median": 127
-   },
-   {
-    "members": [
-     "l1",
-     "l5",
-     "l6"
-    ],
-    "prob": null,
-    "seats_median": 126
-   },
-   {
-    "members": [
-     "l1",
-     "l5",
-     "l10"
     ],
     "prob": null,
     "seats_median": 126
