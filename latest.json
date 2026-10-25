@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T17:27:29+00:00",
+ "generated_at": "2026-10-25T17:28:51+00:00",
  "election": {
   "name": "Izbori za narodne poslanike 2026",
   "date": "2026-10-25",
@@ -9,15 +9,15 @@
   "rik": {
    "status": "not_published",
    "last_ok_at": null,
-   "last_attempt_at": "2026-10-25T17:27:28+00:00",
+   "last_attempt_at": "2026-10-25T17:28:51+00:00",
    "message": "RIK results page reachable; no machine-readable 2026 results table published yet",
    "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
    "party_source": false
   },
   "cesid_ipsos": {
    "status": "ok",
-   "last_ok_at": "2026-10-25T17:27:29+00:00",
-   "last_attempt_at": "2026-10-25T17:27:29+00:00",
+   "last_ok_at": "2026-10-25T17:28:51+00:00",
+   "last_attempt_at": "2026-10-25T17:28:51+00:00",
    "message": "feed ok; turnout infographics need manual confirmation (OCR candidates are not shown as results)",
    "url": "https://www.cesid.rs/feed/",
    "party_source": false
@@ -25,7 +25,7 @@
   "crta": {
    "status": "not_published",
    "last_ok_at": null,
-   "last_attempt_at": "2026-10-25T17:27:29+00:00",
+   "last_attempt_at": "2026-10-25T17:28:51+00:00",
    "message": "reachable, but no stable machine-readable results endpoint is known",
    "url": "https://crta.rs/",
    "party_source": false
@@ -33,7 +33,7 @@
   "sns": {
    "status": "not_published",
    "last_ok_at": null,
-   "last_attempt_at": "2026-10-25T17:27:29+00:00",
+   "last_attempt_at": "2026-10-25T17:28:51+00:00",
    "message": "no verified public machine-readable party estimate endpoint; entries only via manual file",
    "url": "https://www.sns.org.rs/",
    "party_source": true
@@ -47,7 +47,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T17:27:28+00:00",
+   "fetched_at": "2026-10-25T17:28:51+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -58,7 +58,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T17:27:28+00:00",
+   "fetched_at": "2026-10-25T17:28:51+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   },
@@ -69,7 +69,7 @@
    "source": "cesid_ipsos",
    "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-izlaznosti-izbori-2026/",
    "published_at": "2026-10-25T09:15:52+00:00",
-   "fetched_at": "2026-10-25T17:27:28+00:00",
+   "fetched_at": "2026-10-25T17:28:51+00:00",
    "validation": "valid-manual",
    "processed_pct": null
   }
