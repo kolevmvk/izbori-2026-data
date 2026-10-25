@@ -1,11 +1,237 @@
 {
- "generated_at": "2026-10-25T21:50:40+00:00",
+ "generated_at": "2026-10-25T21:52:01+00:00",
  "method": "dirichlet-mc-v1",
  "method_validated": false,
  "turnout": null,
- "lists": null,
- "majority": null,
- "simulations": 0,
- "status": "insufficient_data",
- "reason": "Obrađeno 19.97% uzorka; potrebno je najmanje 20% validiranih podataka."
+ "lists": [
+  {
+   "id": "l1",
+   "name": "ALEKSANDAR VUČIĆ – UJEDINJENA SRBIJA",
+   "pct_point": 46.16,
+   "pct_lo": 41.72,
+   "pct_hi": 50.49,
+   "seats_point": 120,
+   "seats_lo": 108,
+   "seats_hi": 132,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l2",
+   "name": "IVICA DAČIĆ - FAKTOR STABILNOSTI! (SOCIJALISTIČKA PARTIJA SRBIJE, JEDINSTVENA SRBIJA, SOCIJALDEMOKRATSKA PARTIJA SRBIJE, ZELENI SRBIJE)",
+   "pct_point": 2.62,
+   "pct_lo": 1.4,
+   "pct_hi": 4.28,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 11,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l3",
+   "name": "STUDENTSKA LISTA - STUDENTI POBEĐUJU",
+   "pct_point": 45.04,
+   "pct_lo": 40.66,
+   "pct_hi": 49.51,
+   "seats_point": 117,
+   "seats_lo": 105,
+   "seats_hi": 129,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l4",
+   "name": "RASIM LJAJIĆ – LJUDSKI (SDP – CDP)",
+   "pct_point": 0.55,
+   "pct_lo": 0.09,
+   "pct_hi": 1.45,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l5",
+   "name": "VAJDASÁGI MAGYAR SZÖVETSÉG – DR. PÁSZTOR BÁLINT – SAVEZ VOJVOĐANSKIH MAĐARA – DR BALINT PASTOR",
+   "pct_point": 1.81,
+   "pct_lo": 0.86,
+   "pct_hi": 3.23,
+   "seats_point": 6,
+   "seats_lo": 2,
+   "seats_hi": 11,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l6",
+   "name": "USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE / USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE",
+   "pct_point": 0.31,
+   "pct_lo": 0.02,
+   "pct_hi": 1.04,
+   "seats_point": 1,
+   "seats_lo": 0,
+   "seats_hi": 3,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l7",
+   "name": "RUSKA STRANKA – SRBIJA U BRIKSU – SLOBODAN NIKOLIĆ",
+   "pct_point": 0.09,
+   "pct_lo": 0.0,
+   "pct_hi": 0.59,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l8",
+   "name": "AUTENTIČNA DESNICA – DR MILOŠ JOVANOVIĆ (NOVI DSS – MONARHISTI – SRPSKA KOALICIJA NADA – NACIONALNO DEMOKRATSKA ALTERNATIVA – NOVA DEMOKRATSKA STRANKA",
+   "pct_point": 0.68,
+   "pct_lo": 0.17,
+   "pct_hi": 1.69,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l9",
+   "name": "EVROPSKA SRBIJA – MARINIKA TEPIĆ – ZDRAVKO PONOŠ (STRANKA SLOBODE I PRAVDE, SRBIJA CENTAR – SRCE, SOLIDARNOST – SAMOODBRANA – OSLOBOĐENJE)",
+   "pct_point": 0.15,
+   "pct_lo": 0.0,
+   "pct_hi": 0.74,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l10",
+   "name": "SDA SANDŽAKA – ČUVARI SANDŽAKA SDA SANDŽAKA – ČUVARI SANDŽAKA",
+   "pct_point": 0.31,
+   "pct_lo": 0.02,
+   "pct_hi": 1.03,
+   "seats_point": 1,
+   "seats_lo": 0,
+   "seats_hi": 3,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l11",
+   "name": "BOGOLJUB KARIĆ – POKRET SNAGA SRBIJE - BK",
+   "pct_point": 0.36,
+   "pct_lo": 0.03,
+   "pct_hi": 1.14,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l12",
+   "name": "LIBERALNO ZELENA STRANKA-ZA SLOBODNU I ČISTIJU SRBIJU",
+   "pct_point": 0.0,
+   "pct_lo": 0.0,
+   "pct_hi": 0.29,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l13",
+   "name": "BIRAM PRAVDU - BIRAM BUDUĆNOST - KOALICIJA SNAGA - PROF. DR FERID BULIĆ - VASILIOS PROVELEGGIOS – STRANKA BUDUĆNOSTI I RAZVOJA/STRANKA BUDUĆNOSTI I RA",
+   "pct_point": 0.0,
+   "pct_lo": 0.0,
+   "pct_hi": 0.2,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l14",
+   "name": "STRANKA RUSKO-SRPSKOG JEDINSTVA- RUSI I SRBI BRAĆA ZAUVEK",
+   "pct_point": 0.04,
+   "pct_lo": 0.0,
+   "pct_hi": 0.44,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l15",
+   "name": "ĆALE OVO JE ZA TEBE–PETAR ĐURIĆ-PREMIJER SRBIJE",
+   "pct_point": 0.0,
+   "pct_lo": 0.0,
+   "pct_hi": 0.23,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l16",
+   "name": "VLADIMIR GAJIĆ – ALTERNATIVA ZA SRBIJU - NARODNA STRANKA, BUNT-PRAVA SRBIJA - BUNT-NASTOЯЩAЯ SERBIЯ",
+   "pct_point": 0.01,
+   "pct_lo": 0.0,
+   "pct_hi": 0.32,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l17",
+   "name": "ALBANSKA KOALICIJA - KOALICIONI SHQIPTAR",
+   "pct_point": 0.75,
+   "pct_lo": 0.2,
+   "pct_hi": 1.74,
+   "seats_point": 2,
+   "seats_lo": 0,
+   "seats_hi": 6,
+   "passes_threshold_prob": null
+  },
+  {
+   "id": "l18",
+   "name": "MAJKA SRBIJA – GRUDA",
+   "pct_point": 0.02,
+   "pct_lo": 0.0,
+   "pct_hi": 0.38,
+   "seats_point": 0,
+   "seats_lo": 0,
+   "seats_hi": 0,
+   "passes_threshold_prob": null
+  }
+ ],
+ "majority": {
+  "party_alone_126_prob": null,
+  "coalitions": [
+   {
+    "members": [
+     "l1",
+     "l3"
+    ],
+    "prob": null,
+    "seats_median": 237
+   },
+   {
+    "members": [
+     "l1",
+     "l5"
+    ],
+    "prob": null,
+    "seats_median": 126
+   }
+  ],
+  "note": "Verovatnoće većine nisu prikazane: metodologija nije validirana (backtest nije moguć bez istorijskih podataka po biračkim mestima). Koalicije su računske kombinacije, ne prognoza ponašanja stranaka."
+ },
+ "simulations": 5000,
+ "status": "ok",
+ "reason": null,
+ "interval": "5-95%",
+ "confidence_level": 0.9,
+ "limitations": [
+  "Bez regionalne strukture biračkog tela interval je proširen.",
+  "Redosled pristizanja rezultata nije reprezentativan; korekcija je pretpostavka."
+ ]
 }
