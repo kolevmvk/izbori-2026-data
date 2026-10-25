@@ -7278,5 +7278,326 @@
     "kind": "sample_projection"
    }
   }
+ },
+ {
+  "hash": "a052ed68f0c896e6",
+  "at": "2026-10-25T21:24:56+00:00",
+  "results": {
+   "rik": {
+    "provenance": {
+     "source": "rik",
+     "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
+     "published_at": null,
+     "fetched_at": "2026-10-25T21:24:55+00:00",
+     "validation": "valid",
+     "processed_pct": 13.7
+    },
+    "processed_pct": 13.7,
+    "lists": [
+     {
+      "id": "l1",
+      "name": "ALEKSANDAR VUČIĆ – UJEDINJENA SRBIJA",
+      "votes": 134494,
+      "pct": 46.94,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l2",
+      "name": "IVICA DAČIĆ - FAKTOR STABILNOSTI! (SOCIJALISTIČKA PARTIJA SRBIJE, JEDINSTVENA SRBIJA, SOCIJALDEMOKRATSKA PARTIJA SRBIJE, ZELENI SRBIJE)",
+      "votes": 8261,
+      "pct": 2.88,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l3",
+      "name": "STUDENTSKA LISTA - STUDENTI POBEĐUJU",
+      "votes": 122330,
+      "pct": 42.7,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l4",
+      "name": "RASIM LJAJIĆ – LJUDSKI (SDP – CDP)",
+      "votes": 1924,
+      "pct": 0.67,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l5",
+      "name": "VAJDASÁGI MAGYAR SZÖVETSÉG – DR. PÁSZTOR BÁLINT – SAVEZ VOJVOĐANSKIH MAĐARA – DR BALINT PASTOR",
+      "votes": 5347,
+      "pct": 1.87,
+      "seats": null,
+      "minority": true
+     },
+     {
+      "id": "l6",
+      "name": "USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE / USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE",
+      "votes": 1147,
+      "pct": 0.4,
+      "seats": null,
+      "minority": true
+     },
+     {
+      "id": "l7",
+      "name": "RUSKA STRANKA – SRBIJA U BRIKSU – SLOBODAN NIKOLIĆ",
+      "votes": 473,
+      "pct": 0.17,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l8",
+      "name": "AUTENTIČNA DESNICA – DR MILOŠ JOVANOVIĆ (NOVI DSS – MONARHISTI – SRPSKA KOALICIJA NADA – NACIONALNO DEMOKRATSKA ALTERNATIVA – NOVA DEMOKRATSKA STRANKA",
+      "votes": 2109,
+      "pct": 0.74,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l9",
+      "name": "EVROPSKA SRBIJA – MARINIKA TEPIĆ – ZDRAVKO PONOŠ (STRANKA SLOBODE I PRAVDE, SRBIJA CENTAR – SRCE, SOLIDARNOST – SAMOODBRANA – OSLOBOĐENJE)",
+      "votes": 636,
+      "pct": 0.22,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l10",
+      "name": "SDA SANDŽAKA – ČUVARI SANDŽAKA SDA SANDŽAKA – ČUVARI SANDŽAKA",
+      "votes": 1012,
+      "pct": 0.35,
+      "seats": null,
+      "minority": true
+     },
+     {
+      "id": "l11",
+      "name": "BOGOLJUB KARIĆ – POKRET SNAGA SRBIJE - BK",
+      "votes": 1275,
+      "pct": 0.45,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l12",
+      "name": "LIBERALNO ZELENA STRANKA-ZA SLOBODNU I ČISTIJU SRBIJU",
+      "votes": 146,
+      "pct": 0.05,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l13",
+      "name": "BIRAM PRAVDU - BIRAM BUDUĆNOST - KOALICIJA SNAGA - PROF. DR FERID BULIĆ - VASILIOS PROVELEGGIOS – STRANKA BUDUĆNOSTI I RAZVOJA/STRANKA BUDUĆNOSTI I RA",
+      "votes": 81,
+      "pct": 0.03,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l14",
+      "name": "STRANKA RUSKO-SRPSKOG JEDINSTVA- RUSI I SRBI BRAĆA ZAUVEK",
+      "votes": 291,
+      "pct": 0.1,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l15",
+      "name": "ĆALE OVO JE ZA TEBE–PETAR ĐURIĆ-PREMIJER SRBIJE",
+      "votes": 129,
+      "pct": 0.05,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l16",
+      "name": "VLADIMIR GAJIĆ – ALTERNATIVA ZA SRBIJU - NARODNA STRANKA, BUNT-PRAVA SRBIJA - BUNT-NASTOЯЩAЯ SERBIЯ",
+      "votes": 167,
+      "pct": 0.06,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l17",
+      "name": "ALBANSKA KOALICIJA - KOALICIONI SHQIPTAR",
+      "votes": 2290,
+      "pct": 0.8,
+      "seats": null,
+      "minority": true
+     },
+     {
+      "id": "l18",
+      "name": "MAJKA SRBIJA – GRUDA",
+      "votes": 218,
+      "pct": 0.08,
+      "seats": null,
+      "minority": false
+     }
+    ]
+   },
+   "cesid_ipsos": {
+    "provenance": {
+     "source": "cesid_ipsos",
+     "url": "https://www.cesid.rs/uncategorized-sr/cesid-ipsos-projekcija-rezultata-na-osnovu-56-obradenog-uzorka/",
+     "published_at": "2026-10-25T20:59:37+00:00",
+     "fetched_at": "2026-10-25T21:24:56+00:00",
+     "validation": "valid-manual",
+     "processed_pct": 56.0
+    },
+    "processed_pct": 56.0,
+    "lists": [
+     {
+      "id": "l1",
+      "name": "Aleksandar Vučić – Ujedinjena Srbija",
+      "votes": null,
+      "pct": 39.3,
+      "seats": 104,
+      "minority": false
+     },
+     {
+      "id": "l2",
+      "name": "Ivica Dačić – Faktor stabilnosti",
+      "votes": null,
+      "pct": 2.3,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l3",
+      "name": "Studentska lista – Studenti pobeđuju",
+      "votes": null,
+      "pct": 52.0,
+      "seats": 139,
+      "minority": false
+     },
+     {
+      "id": "l4",
+      "name": "Rasim Ljajić – Ljudski (SDP–CDP)",
+      "votes": null,
+      "pct": 0.5,
+      "seats": 1,
+      "minority": false
+     },
+     {
+      "id": "l5",
+      "name": "Savez vojvođanskih Mađara – dr Balint Pastor",
+      "votes": null,
+      "pct": 0.9,
+      "seats": 3,
+      "minority": true
+     },
+     {
+      "id": "l6",
+      "name": "Usame Zukorlić (SPP) Pokret za ujedinjenje",
+      "votes": null,
+      "pct": 0.3,
+      "seats": 0,
+      "minority": true
+     },
+     {
+      "id": "l7",
+      "name": "Ruska stranka – Srbija u Briksu – Slobodan Nikolić",
+      "votes": null,
+      "pct": 0.2,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l8",
+      "name": "Autentična desnica – Miloš Jovanović",
+      "votes": null,
+      "pct": 0.8,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l9",
+      "name": "Evropska Srbija – Marinika Tepić – Zdravko Ponoš",
+      "votes": null,
+      "pct": 0.3,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l10",
+      "name": "SDA Sandžaka – Čuvari Sandžaka",
+      "votes": null,
+      "pct": 0.4,
+      "seats": 1,
+      "minority": true
+     },
+     {
+      "id": "l11",
+      "name": "Bogoljub Karić – Pokret snaga Srbije – BK",
+      "votes": null,
+      "pct": 0.4,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l12",
+      "name": "Liberalno zelena stranka – Za slobodnu i čistiju Srbiju",
+      "votes": null,
+      "pct": 0.1,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l13",
+      "name": "Biram pravdu biram budućnost",
+      "votes": null,
+      "pct": 0.0,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l14",
+      "name": "Stranka ruskog srpskog jedinstva – Rusi i Srbi braća zauvek",
+      "votes": null,
+      "pct": 0.1,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l15",
+      "name": "Grupa građana „Ćale, ovo je za tebe“ – Petar Đurić",
+      "votes": null,
+      "pct": 0.0,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l16",
+      "name": "Vladimir Gajić – Alternativa za Srbiju",
+      "votes": null,
+      "pct": 0.1,
+      "seats": 0,
+      "minority": false
+     },
+     {
+      "id": "l17",
+      "name": "Albanska koalicija – Koalicioni Shqiptar",
+      "votes": null,
+      "pct": 0.8,
+      "seats": 2,
+      "minority": true
+     },
+     {
+      "id": "l18",
+      "name": "Majka Srbija – Gruda",
+      "votes": null,
+      "pct": 0.1,
+      "seats": 0,
+      "minority": false
+     }
+    ],
+    "kind": "sample_projection"
+   }
+  }
  }
 ]
