@@ -3584,5 +3584,168 @@
     ]
    }
   }
+ },
+ {
+  "hash": "801cb04388c052bc",
+  "at": "2026-10-25T21:08:40+00:00",
+  "results": {
+   "rik": {
+    "provenance": {
+     "source": "rik",
+     "url": "https://www.rik.parlament.gov.rs/542645/rezultati/",
+     "published_at": null,
+     "fetched_at": "2026-10-25T21:08:39+00:00",
+     "validation": "valid",
+     "processed_pct": 10.44
+    },
+    "processed_pct": 10.44,
+    "lists": [
+     {
+      "id": "l1",
+      "name": "ALEKSANDAR VUČIĆ – UJEDINJENA SRBIJA",
+      "votes": 96882,
+      "pct": 47.87,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l2",
+      "name": "IVICA DAČIĆ - FAKTOR STABILNOSTI! (SOCIJALISTIČKA PARTIJA SRBIJE, JEDINSTVENA SRBIJA, SOCIJALDEMOKRATSKA PARTIJA SRBIJE, ZELENI SRBIJE)",
+      "votes": 5843,
+      "pct": 2.89,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l3",
+      "name": "STUDENTSKA LISTA - STUDENTI POBEĐUJU",
+      "votes": 84786,
+      "pct": 41.89,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l4",
+      "name": "RASIM LJAJIĆ – LJUDSKI (SDP – CDP)",
+      "votes": 925,
+      "pct": 0.46,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l5",
+      "name": "VAJDASÁGI MAGYAR SZÖVETSÉG – DR. PÁSZTOR BÁLINT – SAVEZ VOJVOĐANSKIH MAĐARA – DR BALINT PASTOR",
+      "votes": 3992,
+      "pct": 1.97,
+      "seats": null,
+      "minority": true
+     },
+     {
+      "id": "l6",
+      "name": "USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE / USAME ZUKORLIĆ (SPP) POKRET ZA UJEDINJENJE",
+      "votes": 869,
+      "pct": 0.43,
+      "seats": null,
+      "minority": true
+     },
+     {
+      "id": "l7",
+      "name": "RUSKA STRANKA – SRBIJA U BRIKSU – SLOBODAN NIKOLIĆ",
+      "votes": 307,
+      "pct": 0.15,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l8",
+      "name": "AUTENTIČNA DESNICA – DR MILOŠ JOVANOVIĆ (NOVI DSS – MONARHISTI – SRPSKA KOALICIJA NADA – NACIONALNO DEMOKRATSKA ALTERNATIVA – NOVA DEMOKRATSKA STRANKA",
+      "votes": 1491,
+      "pct": 0.74,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l9",
+      "name": "EVROPSKA SRBIJA – MARINIKA TEPIĆ – ZDRAVKO PONOŠ (STRANKA SLOBODE I PRAVDE, SRBIJA CENTAR – SRCE, SOLIDARNOST – SAMOODBRANA – OSLOBOĐENJE)",
+      "votes": 427,
+      "pct": 0.21,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l10",
+      "name": "SDA SANDŽAKA – ČUVARI SANDŽAKA SDA SANDŽAKA – ČUVARI SANDŽAKA",
+      "votes": 706,
+      "pct": 0.35,
+      "seats": null,
+      "minority": true
+     },
+     {
+      "id": "l11",
+      "name": "BOGOLJUB KARIĆ – POKRET SNAGA SRBIJE - BK",
+      "votes": 863,
+      "pct": 0.43,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l12",
+      "name": "LIBERALNO ZELENA STRANKA-ZA SLOBODNU I ČISTIJU SRBIJU",
+      "votes": 89,
+      "pct": 0.04,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l13",
+      "name": "BIRAM PRAVDU - BIRAM BUDUĆNOST - KOALICIJA SNAGA - PROF. DR FERID BULIĆ - VASILIOS PROVELEGGIOS – STRANKA BUDUĆNOSTI I RAZVOJA/STRANKA BUDUĆNOSTI I RA",
+      "votes": 63,
+      "pct": 0.03,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l14",
+      "name": "STRANKA RUSKO-SRPSKOG JEDINSTVA- RUSI I SRBI BRAĆA ZAUVEK",
+      "votes": 197,
+      "pct": 0.1,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l15",
+      "name": "ĆALE OVO JE ZA TEBE–PETAR ĐURIĆ-PREMIJER SRBIJE",
+      "votes": 83,
+      "pct": 0.04,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l16",
+      "name": "VLADIMIR GAJIĆ – ALTERNATIVA ZA SRBIJU - NARODNA STRANKA, BUNT-PRAVA SRBIJA - BUNT-NASTOЯЩAЯ SERBIЯ",
+      "votes": 110,
+      "pct": 0.05,
+      "seats": null,
+      "minority": false
+     },
+     {
+      "id": "l17",
+      "name": "ALBANSKA KOALICIJA - KOALICIONI SHQIPTAR",
+      "votes": 1667,
+      "pct": 0.82,
+      "seats": null,
+      "minority": true
+     },
+     {
+      "id": "l18",
+      "name": "MAJKA SRBIJA – GRUDA",
+      "votes": 154,
+      "pct": 0.08,
+      "seats": null,
+      "minority": false
+     }
+    ]
+   }
+  }
  }
 ]
