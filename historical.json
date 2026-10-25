@@ -1,35 +1,98 @@
 [
  {
+  "year": 1990,
+  "type": "parlamentarni, 9.12.1990. (1. krug)",
+  "pct": 71.39,
+  "url": "https://en.wikipedia.org/wiki/1990_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 1992,
+  "type": "parlamentarni, 20.12.1992.",
+  "pct": 69.58,
+  "url": "https://en.wikipedia.org/wiki/1992_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 1993,
+  "type": "parlamentarni, 19.12.1993.",
+  "pct": 61.3,
+  "url": "https://en.wikipedia.org/wiki/1993_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 1997,
+  "type": "parlamentarni, 21.9.1997.",
+  "pct": 57.37,
+  "url": "https://en.wikipedia.org/wiki/1997_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
   "year": 2000,
-  "type": "parlamentarni (Srbija, 23.12.2000)",
+  "type": "parlamentarni, 23.12.2000.",
   "pct": 57.62,
   "url": "https://en.wikipedia.org/wiki/2000_Serbian_parliamentary_election",
   "validation": "secondary_source"
  },
  {
+  "year": 2003,
+  "type": "parlamentarni, 28.12.2003.",
+  "pct": 58.74,
+  "url": "https://en.wikipedia.org/wiki/2003_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2007,
+  "type": "parlamentarni, 21.1.2007.",
+  "pct": 60.61,
+  "url": "https://en.wikipedia.org/wiki/2007_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2008,
+  "type": "parlamentarni, 11.5.2008.",
+  "pct": 61.33,
+  "url": "https://en.wikipedia.org/wiki/2008_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2012,
+  "type": "parlamentarni, 6.5.2012.",
+  "pct": 57.76,
+  "url": "https://en.wikipedia.org/wiki/2012_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2014,
+  "type": "parlamentarni, 16.3.2014.",
+  "pct": 53.09,
+  "url": "https://en.wikipedia.org/wiki/2014_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
+  "year": 2016,
+  "type": "parlamentarni, 24.4.2016.",
+  "pct": 56.07,
+  "url": "https://en.wikipedia.org/wiki/2016_Serbian_parliamentary_election",
+  "validation": "secondary_source"
+ },
+ {
   "year": 2020,
-  "type": "parlamentarni",
+  "type": "parlamentarni, 21.6.2020.",
   "pct": 48.88,
   "url": "https://en.wikipedia.org/wiki/2020_Serbian_parliamentary_election",
   "validation": "secondary_source"
  },
  {
   "year": 2022,
-  "type": "parlamentarni",
+  "type": "parlamentarni, 3.4.2022.",
   "pct": 58.53,
   "url": "https://en.wikipedia.org/wiki/2022_Serbian_general_election",
   "validation": "secondary_source"
  },
  {
-  "year": 2022,
-  "type": "predsednički",
-  "pct": 58.63,
-  "url": "https://en.wikipedia.org/wiki/2022_Serbian_general_election",
-  "validation": "secondary_source"
- },
- {
   "year": 2023,
-  "type": "parlamentarni (vanredni)",
+  "type": "parlamentarni, 17.12.2023. (vanredni)",
   "pct": 58.77,
   "url": "https://en.wikipedia.org/wiki/2023_Serbian_parliamentary_election",
   "validation": "secondary_source"
